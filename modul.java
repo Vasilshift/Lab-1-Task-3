@@ -1,4 +1,4 @@
-public class my {
+public class modul {
 
 	public static void main(String args[]){
 	      Integer a = -8;
