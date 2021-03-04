@@ -1,3 +1,6 @@
+// Дано действительное число y. Вывести на экран его абсолютное значение
+
+
 public class modul {
 
 	public static void main(String args[]){
